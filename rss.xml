@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[InProv Life]]></title>
         <description><![CDATA[InProv Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/inprov-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 15:57:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 16:02:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/inprov-life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b71e9bd5-0b7c-4ad6-ab7f-e135d8fb53d7.png">]]></description>
+            <link>https://thegrid.ai/inprov-life/6471b965-520e-48ad-bdae-48fdc0ee97b5/index.html</link>
+            <guid isPermaLink="false">6471b965-520e-48ad-bdae-48fdc0ee97b5</guid>
+            <pubDate>Wed, 27 Jan 2016 16:01:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[InProv Life is about ...]]></title>
-            <description><![CDATA[<article><h1>InProv Life is about ...</h1><p>All about what InProv Life is!</p></article>]]></description>
-            <link>undefinedinprov-life-is-about-/index.html</link>
+            <description><![CDATA[<article><h1>InProv Life is about ...</h1><p>InProvLife is about ...</p></article>]]></description>
+            <link>https://thegrid.ai/inprov-life/inprov-life-is-about-/index.html</link>
             <guid isPermaLink="false">a6ff19fa-3856-4a7d-ab84-ebefbe068ed9</guid>
             <pubDate>Wed, 27 Jan 2016 15:57:33 GMT</pubDate>
         </item>
